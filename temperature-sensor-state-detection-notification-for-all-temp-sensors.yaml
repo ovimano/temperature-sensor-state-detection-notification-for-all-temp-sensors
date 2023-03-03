@@ -39,7 +39,7 @@ blueprint:
         the names of sensors being in the state defined.
       selector:
         action: {}
-  source_url: https://gist.github.com/ovimano/temp_state_notify
+  source_url: https://gist.github.com/ovimano/temperature-sensor-state-detection-notification-for-all-temp-sensors
 variables:
   day: !input day
   threshold: !input threshold
